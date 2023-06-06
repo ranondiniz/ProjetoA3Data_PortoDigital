@@ -1,0 +1,5 @@
+beautifulsoup4==4.9.3
+requests==2.25.1
+Unidecode==1.2.0
+openpyxl==3.0.5
+plotly==5.3.1
